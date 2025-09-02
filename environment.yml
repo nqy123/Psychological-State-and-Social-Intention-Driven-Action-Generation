@@ -1,0 +1,9 @@
+name: motion-diffusion
+dependencies:
+  - python=3.8
+  - pytorch=1.10.0
+  - cudatoolkit=11.3
+  - pip:
+    - numpy
+    - matplotlib
+    - transformers
